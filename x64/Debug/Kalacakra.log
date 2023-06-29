@@ -1,0 +1,5 @@
+﻿D:\Microsoft Visual Studio\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenGL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“”(使用“glew32s.lib(glew.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  Kalacakra.vcxproj -> D:\Microsoft Visual Studio\VSProject\Kalacakra\x64\Debug\Kalacakra.exe
